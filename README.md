@@ -1,16 +1,34 @@
-## Hi there 👋
+# Larry Tech 👨‍💻
 
-<!--
-**larrytech04/larrytech04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer • WordPress/Elementor • SEO • Landing Pages • Automation
 
-Here are some ideas to get you started:
+I build clean, fast websites and growth-focused landing pages under **LarryTech.dev**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Website: https://larrytech.dev  
+📩 Contact: info@larrytech.dev
+
+---
+
+## What I do
+- WordPress + Elementor builds (business sites, portfolios, e-commerce)
+- SEO setup (on-page structure, schema, speed, GSC)
+- Landing pages for ads (Google Ads-ready)
+- UI cleanup + performance optimization
+
+---
+
+## Featured Projects
+- **LarryTech.dev** - Portfolio & services
+    ------------------------------
+
+---
+
+## Tech Stack
+HTML • CSS • JavaScript • WordPress • Elementor • Git • GitHub • SEO
+
+---
+
+## Now building
+- More reusable templates
+- Better automation tools
+- Stronger SEO content systems

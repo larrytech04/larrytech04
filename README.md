@@ -98,12 +98,6 @@ const LarryTech = {
 
 ## `> featured_projects`
 
-<div align="center">
-
-[![LarryTech.dev](https://github-readme-stats.vercel.app/api/pin/?username=larrytech04&repo=larrytech.dev&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=cccccc)](https://github.com/larrytech04/larrytech.dev)
-
-</div>
-
 
 > 💡 *More projects live at **[larrytech.dev](https://larrytech.dev)***
 

@@ -15,8 +15,8 @@
 <!-- Profile badges -->
 
 [![Website](https://img.shields.io/badge/larrytech.dev-%2300ff88?style=for-the-badge&logo=googlechrome&logoColor=0f0f0f)](https://larrytech.dev)
-[![GitHub followers](https://img.shields.io/github/followers/LarryTech?label=Follow&style=for-the-badge&color=00ff88&labelColor=0f0f0f&logo=github)](https://github.com/LarryTech)
-[![Profile Views](https://komarev.com/ghpvc/?username=LarryTech&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)](https://github.com/LarryTech)
+[![GitHub followers](https://img.shields.io/github/followers/larrytech04?label=Follow&style=for-the-badge&color=00ff88&labelColor=0f0f0f&logo=github)](https://github.com/larrytech04)
+[![Profile Views](https://komarev.com/ghpvc/?username=larrytech04&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)](https://github.com/larrytech04)
 
 </div>
 
@@ -27,7 +27,7 @@
 ```ts
 const LarryTech = {
   name:     "Larry",
-  handle:   "@LarryTech",
+  handle:   "@larrytech04",
   site:     "https://larrytech.dev",
   role:     "Full-Stack Developer",
   focus:    ["Web Apps", "APIs", "UI/UX", "Performance"],
@@ -81,8 +81,8 @@ const LarryTech = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarryTech&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=cccccc" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarryTech&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larrytech04&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=cccccc" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrytech04&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc" />
 
 <br/>
 
@@ -90,7 +90,7 @@ const LarryTech = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LarryTech&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8822&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=larrytech04&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8822&hide_border=true" />
 
 </div>
 
@@ -100,7 +100,7 @@ const LarryTech = {
 
 <div align="center">
 
-[![LarryTech.dev](https://github-readme-stats.vercel.app/api/pin/?username=LarryTech&repo=larrytech.dev&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=cccccc)](https://github.com/LarryTech/larrytech.dev)
+[![LarryTech.dev](https://github-readme-stats.vercel.app/api/pin/?username=larrytech04&repo=larrytech.dev&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=cccccc)](https://github.com/larrytech04/larrytech.dev)
 
 </div>
 
@@ -114,9 +114,9 @@ const LarryTech = {
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_larrytech.dev-0d0d0d?style=for-the-badge)](https://larrytech.dev)
-[![Email](https://img.shields.io/badge/Email-00ff88?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:hello@larrytech.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LarryTech)
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/LarryTech)
+[![Email](https://img.shields.io/badge/Email-00ff88?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:info@larrytech.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larry-tech-95521336a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/237_larrywayn?s=21)
 
 </div>
 

@@ -2,7 +2,7 @@
 
 <!-- Animated header banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff88,100:0f0f0f&height=200&section=header&text=LarryTech&fontSize=70&fontColor=00ff88&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20LarryTech.dev&descAlignY=58&descSize=18&descColor=aaaaaa&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff88,100:0f0f0f&height=200&section=header&text=LarryTechnologies&fontSize=70&fontColor=00ff88&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20LarryTechnologies.com&descAlignY=58&descSize=18&descColor=aaaaaa&animation=twinkling" />
 
 <!-- Typing animation -->
 

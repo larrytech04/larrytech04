@@ -14,7 +14,7 @@
 
 <!-- Profile badges -->
 
-[![Website](https://img.shields.io/badge/larrytech.dev-%2300ff88?style=for-the-badge&logo=googlechrome&logoColor=0f0f0f)](https://larrytech.dev)
+[![Website](https://img.shields.io/badge/larrytechnologies.com-%2300ff88?style=for-the-badge&logo=googlechrome&logoColor=0f0f0f)](https://larrytechnologies.com)
 [![GitHub followers](https://img.shields.io/github/followers/larrytech04?label=Follow&style=for-the-badge&color=00ff88&labelColor=0f0f0f&logo=github)](https://github.com/larrytech04)
 [![Profile Views](https://komarev.com/ghpvc/?username=larrytech04&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)](https://github.com/larrytech04)
 

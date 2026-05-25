@@ -6,7 +6,7 @@
 
 <!-- Typing animation -->
 
-<a href="https://larrytech.dev">
+<a href="https://larrytechnologies.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+things+that+matter.;Full-Stack+Developer.;Front-end+%2B+Back-end+%2B+Everything+in+between.;Welcome+to+my+digital+lab+%F0%9F%94%AC" alt="Typing SVG" />
 </a>
 
@@ -28,7 +28,7 @@
 const LarryTech = {
   name:     "Larry",
   handle:   "@larrytech04",
-  site:     "https://larrytech.dev",
+  site:     "https://larrytechnologies.com",
   role:     "Full-Stack Developer",
   focus:    ["Web Apps", "APIs", "UI/UX", "Performance"],
   currently: "Building cool things & shipping fast 🚀",
@@ -99,7 +99,7 @@ const LarryTech = {
 ## `> featured_projects`
 
 
-> 💡 *More projects live at **[larrytech.dev](https://larrytech.dev)***
+> 💡 *More projects live at **[larrytechnologies.com](https://larrytechnologies.com)***
 
 -----
 
@@ -107,10 +107,10 @@ const LarryTech = {
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_larrytech.dev-0d0d0d?style=for-the-badge)](https://larrytech.dev)
-[![Email](https://img.shields.io/badge/Email-00ff88?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:info@larrytech.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larry-tech-95521336a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/237_larrywayn?s=21)
+[![Website](https://img.shields.io/badge/🌐_larrytechnologies.com-0d0d0d?style=for-the-badge)](https://larrytechnologies.com)
+[![Email](https://img.shields.io/badge/Email-00ff88?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:info@larrytechnologies.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/larry-tech-95521336a?utm_source=share_via&utm_content=profile&utm_medium=member_ios](https://www.linkedin.com/in/larry-tech-95521336a?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/237_larrywayn?s=21](https://x.com/237_larrywayn?s=21))
 
 </div>
 
@@ -120,6 +120,6 @@ const LarryTech = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff88,100:0f0f0f&height=100&section=footer&animation=twinkling" />
 
-*`// built with passion & caffeine — LarryTech.dev`*
+*`// built with passion & caffeine — LarryTechnologies.com`*
 
 </div>
